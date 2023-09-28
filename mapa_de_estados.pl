@@ -21,4 +21,4 @@ move(f,cubo(U1,U2,U3,U4,L1,L2,L3,L4,F1,F2,F3,F4,R1,R2,R3,R4,D1,D2,D3,D4,B1,B2,B3
 
 % deslocamento vertical da segunda coluna para baixo
 move(r,cubo(U1,U2,U3,U4,L1,L2,L3,L4,F1,F2,F3,F4,R1,R2,R3,R4,D1,D2,D3,D4,B1,B2,B3,B4),
-    cubo(U1,B2,U3,B4,L1,L2,L3,L4,F1,U2,F3,U4,R2,R4,R1,R3,D1,F2,D3,F4,B1,B2,D3,D4)).
+    cubo(U1,B2,U3,B4,L1,L2,L3,L4,F1,U2,F3,U4,R2,R4,R1,R3,D1,F2,D3,F4,B1,D2,B3,D4)).
